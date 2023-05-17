@@ -7,11 +7,11 @@ CSS
 JavaScript
 
 #Getting Started
-To view my website, simply visit [http://umairkhan.me].
+To view my website, simply visit [https://umair228.github.io/Umair-profile/].
 
 #If you want to run the website locally on your machine, follow these steps:
 
-Clone the repository to your local machine using the command git clone http://umairkhan.me.
+Clone the repository to your local machine using the command git clone https://umair228.github.io/Umair-profile/.
 Open the index.html file in your web browser.
 
 #Features
